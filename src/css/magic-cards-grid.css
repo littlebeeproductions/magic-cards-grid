@@ -1,0 +1,23 @@
+.row {
+    margin: 1em 0 0 1em;
+}
+
+.card-text {
+    font-size: .8em;
+}
+
+.cardnote {
+    font-size: .8em;
+    font-style: italic;
+}
+
+.loading_txt {
+    background-image: url('../img/Spinner-1s-200px.gif');
+    background-position: left;
+    background-repeat: no-repeat;
+    border: 0;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    padding-left: 100px;
+}
